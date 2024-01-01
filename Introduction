@@ -1,0 +1,13 @@
+React-A javascript library for building user interfaces.The user interface (UI) is a point of human computer interaction and communication in a device.This can include display screens ,keyboards, a mouse and the apperance of a desktop.
+Is React JS Library and framework?
+React is not framework.React is a javascript library for building user interfaces.It is also known as ReactJS and React.js, so don't get confused if you read different notation in different places.React knows only one thing that is to create an awesome UI.
+
+React History
+React was first designed by Jorden Walke, a software engineer at facebook.It was first deployed for Faceboo.It was first deployed for facebook News feed around 2011.In 2013, React was open sourced at JS conference.
+
+React have five points:-
+1.React is a component based Approach.
+2.It uses declarative approach.
+3.DOM updates are handled gracefully.
+4.Reusable Code
+5.React is designed for speed,speed of implemenmting the application simplicity and scalabilty.
