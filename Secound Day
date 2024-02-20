@@ -1,0 +1,16 @@
+Print "Hello Sheetal Tyagi"
+Code:-
+var React = require('react');----------->Before we use this
+var ReactDOM = require('react-dom');----------->Before we use this
+import React from 'react';
+import React from 'react-dom';
+ReactDOM.render(<h1>Hello Sheetal Tyagi!!</h1>,document.getElementById('root'));
+
+
+--------->Use as this internally<--------
+   ReactDOM.render(React.createElement('h1',null,'Hello Sheetal Tyagi!!!1'),document.getElementById('root'));
+
+Pure JavaScript:-
+var h1=document.createElement(h1);
+h1.innerHTML='SheetalTyagi Hi!!!';
+document.getElementById('root').appendChild(h1);
