@@ -1,0 +1,19 @@
+How to Render Multiple Elements inside ReactDOMrender() in ReactJS.
+Example:-
+ReactDOM.render(
+    <div>
+        <h1>Hi Sheetal Tyagi</h1>
+        <p>This is the paragraph of sheetal</p>
+    </div>,
+    document.getElementById('root')
+);
+
+React Fragment-It is used to remove the extra div part in "root" div.
+Example:-
+ReactDOM.render(
+    <React.Fragment>
+        <h1>Hi Sheetal Tyagi</h1>
+        <p>This is the paragraph of sheetal</p>
+    </React.Fragment>,
+    document.getElementById('root')
+);
