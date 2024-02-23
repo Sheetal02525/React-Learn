@@ -1,0 +1,7 @@
+ReactDOM.render(
+    <div>
+        <h1>Hi Sheetal Tyagi</h1>
+        <p>This is the paragraph of sheetal</p>
+    </div>,
+    document.getElementById('root')
+);
